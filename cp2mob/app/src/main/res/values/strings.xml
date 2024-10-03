@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meu App</string>
+    <string name="submit">Enviar</string>
+    <string name="name">Nome</string>
+    <string name="age">Idade</string>
+    <string name="gender">Gênero</string>
+</resources>
